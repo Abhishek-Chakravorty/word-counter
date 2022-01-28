@@ -1,2 +1,2 @@
 # word-counter
-# PREVIEW :-
+# PREVIEW :- https://abhishek-chakravorty.github.io/word-counter/
